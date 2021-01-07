@@ -53,4 +53,3 @@ dkms.conf
 
 tmp/*
 tmp/*.txt
-*.xml
